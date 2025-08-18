@@ -85,8 +85,8 @@ Atualmente me aprofundando em:
 
 ## 📊 Estatísticas  
 
-![Adriel GitHub stats](https://github-readme-stats.vercel.app/api?username=T4SpaX&theme=tokyonight&show_icons=true)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=T4SpaX&theme=tokyonight&border_radius=5&locale=pt_BR)](https://git.io/streak-stats)  
+![Adriel GitHub stats](https://github-readme-stats.vercel.app/api?username=adrielpax&theme=tokyonight&show_icons=true)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=adrielpax&theme=tokyonight&border_radius=5&locale=pt_BR)](https://git.io/streak-stats)  
 
 ---
 
