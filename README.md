@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Adriel Lucas  
+# 👋 Adriel Lucas  
 
 💻 **Desenvolvedor Full-Stack | Apaixonado por Tecnologia e Automação**  
 Focado em **Backend, Arquiteturas Escaláveis e Integrações**, mas com experiência sólida em **Frontend** e **DevOps**.  
